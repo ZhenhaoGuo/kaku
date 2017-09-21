@@ -280,6 +280,7 @@ body{
     padding-bottom: 1em;
     background: #2c3e50;
     display: none;
+	z-index:100;
 }
 .nav-ul.nav-xs-ul li{
     width: 100%;
