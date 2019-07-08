@@ -1,20 +1,21 @@
 ::-webkit-scrollbar {
-	width: 8px;
+    width: 8px;
 }
 
 ::-webkit-scrollbar-thumb {
-	background-color: #e6e6e6;
-	width: 8px;
-	border-radius: 6px;
+    background-color: #e6e6e6;
+    width: 8px;
+    border-radius: 6px;
 }
 
 ::-webkit-scrollbar-button {
-	display: none;
+    display: none;
 }
 
 ::-webkit-scrollbar-corner {
-	background-color: #e6e6e6;
+    background-color: #e6e6e6;
 }
+
 body{
     background: none;
     background: #fafafa;
@@ -139,8 +140,12 @@ body{
 #section2,  #section6{
     height: 80vh;
 }
-#section3, #section5{
+#section3{
     height: 70vh;
+    padding-bottom: 50px;
+}
+#section5{
+    height: 80vh;
     padding-bottom: 50px;
 }
 
